@@ -1,0 +1,6 @@
+Please finish assignment 2 before November 20, 23:59PM. The instructions are as follows:
+1. You can finish the assignment with your classmates together. The number of people in a group should be no more that 3 (i.e., <=3). Please submit your report before the deadline November 20, 23:59PM.
+2. The task: Employ a neural network model for PoS tagging.
+3. You can implement any neural network models e.g., RNN and LSTM, that are able to address the task.
+4. You can use any dataset you like to train your neural network models.
+5. You can you any libraries/toolkits you like such as Pytorch.

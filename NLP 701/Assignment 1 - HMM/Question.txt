@@ -1,0 +1,8 @@
+Please submit your Assignment 1 report to my email shangsong.liang@mbzuai.ac.ae before October 14, 2359PM. The following is the instruction for Assignment 1
+
+1. The Assignment Please programming exercises for employing HMM for PoS tagging using smoothed estimation.
+2. You can choose any smoothed estimation technologies or propose your own smoothed estimation ones.
+3. You can implement your Hiddent Markov Model either by supervised way, unsupervised way or semi-supervised way. In case you don’t have the labeling information from human-being, you can use the PoS tagging output of applying the nltk as the ground-truth training data, for instance.
+4. Please use google to search more useful information in case you need help.
+5. You can do the assignment together with your classmates. The number of the team members should not be more than 3.
+6 Deadline 2359PM, October 14, 2021. Submit your assignment report to my email address.

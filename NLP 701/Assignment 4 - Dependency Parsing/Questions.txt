@@ -1,0 +1,14 @@
+Please finish assignment 3 before November 30, 23:59PM. The instructions are as follows:
+1. You can finish the assignment with your classmates together. The number of people in a group should be no more that 3 (i.e., <=3). Please submit your report before the deadline November 30, 23:59PM.
+2. The task: Implement a neural network model for the task of dependency parsing.
+3. You can implement any neural network models you want that are able to address the task.
+4. You can use any dataset you like to train your neural network model. An example dataset that may be used for the task of dependency parsing: https://universaldependencies.org/#download
+5. You can use any code/libraries/toolkits you like.
+
+If you don’t remember what is dependency parsing, you could go to our slides downloadable from the lms website.
+
+Dependency parsing is the task of extracting a dependency parse of a sentence that represents its grammatical structure and defines the relationships between “head” words and words, which modify those heads.
+Example:
+
+
+Relations among the words are illustrated above the sentence with directed, labeled arcs from heads to dependents (+ indicates the dependent).

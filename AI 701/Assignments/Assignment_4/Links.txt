@@ -1,0 +1,11 @@
+https://hub.packtpub.com/paper-in-two-minutes-attention-is-all-you-need/
+
+https://towardsdatascience.com/attention-is-all-you-need-discovering-the-transformer-paper-73e5ff5e0634
+
+http://peterbloem.nl/blog/transformers
+
+https://towardsdatascience.com/transformers-explained-visually-part-3-multi-head-attention-deep-dive-1c1ff1024853
+(Extremely In Depth (Matrices Level) for MHA)
+
+https://jalammar.github.io/illustrated-transformer/
+(THE BEST)

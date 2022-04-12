@@ -1,0 +1,2 @@
+Add more voices
+https://puneet166.medium.com/how-to-added-more-speakers-and-voices-in-pyttsx3-offline-text-to-speech-812c83d14c13

@@ -1,4 +1,0 @@
-https://www.lfd.uci.edu/~gohlke/pythonlibs/#pyaudio
-https://www.youtube.com/watch?v=-3am_5jMzJ4&ab_channel=CodeWithHarry
-
-PyAudio-0.2.11-cp39-cp39-win_amd64.whl

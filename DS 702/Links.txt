@@ -1,0 +1,4 @@
+http://www.mmds.org/
+
+EXPLAINS MAP REDUCE IN PHASES
+https://techvidvan.com/tutorials/how-mapreduce-works/

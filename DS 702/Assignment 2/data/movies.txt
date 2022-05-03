@@ -1,0 +1,10 @@
+movie1,Toy Story (1995),Animation
+movie2,Jumanji (1995),Adventure
+movie3,Grumpier Old Men (1995),Comedy
+movie4,Waiting to Exhale (1995),Comedy
+movie5,Father of the Bride Part II (1995),Comedy
+movie6,Heat (1995),Action
+movie7,Sabrina (1995),Comedy
+movie8,Tom and Huck (1995),Adventure
+movie9,Sudden Death (1995),Action
+movie10,GoldenEye (1995),Action

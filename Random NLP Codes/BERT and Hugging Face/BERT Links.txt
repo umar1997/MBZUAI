@@ -1,0 +1,11 @@
+Applying BERT to Question Answering SQuAD 1.1
+https://www.youtube.com/watch?v=l8ZYCvgGu0o&ab_channel=ChrisMcCormickAI
+
+PyTorch sentiment classifier from scratch with Huggingface NLP Library
+https://www.youtube.com/watch?v=G3pOvrKkFuk&ab_channel=YannicKilcher
+
+NLP: Contextualized word embeddings from BERT
+https://towardsdatascience.com/nlp-extract-contextualized-word-embeddings-from-bert-keras-tf-67ef29f60a7b
+
+Question Answering with a fine-tuned BERT using Hugging Face Transformers and PyTorch on CoQA dataset by Stanford
+https://towardsdatascience.com/question-answering-with-a-fine-tuned-bert-bc4dafd45626

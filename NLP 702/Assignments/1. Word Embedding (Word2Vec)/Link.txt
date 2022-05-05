@@ -1,0 +1,4 @@
+https://notrocketscience.blog/word2vec-with-pytorch-implementing-original-paper/
+
+https://github.com/OlgaChernytska/word2vec-pytorch
+# Also very good if want to look at structure of Pytorch code and .yaml file used as Config

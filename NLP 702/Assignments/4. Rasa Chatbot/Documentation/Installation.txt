@@ -1,0 +1,14 @@
+# Use python3.8
+# Create virtualenv rasaEnv
+
+# Updated pip
+python -m pip uninstall pip
+python -m ensurepip
+python -m pip install -U pip
+
+
+pip install rasa
+
+
+rasa -h
+rasa init

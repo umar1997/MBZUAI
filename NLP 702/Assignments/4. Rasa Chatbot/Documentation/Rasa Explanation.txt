@@ -1,0 +1,36 @@
+######## domain.yml
+1. This has all the different intents that a user will send and Rasa will classify as
+2. It has the complete list of responses to those intents.
+
+######## config.yml 
+1. Sets your NLU pipeline
+
+
+######## data/nlu.yml
+1. Has different ways a user may ask something and are classified based on their intents
+2. For example here intent_greet would be how ppl would greet your assistants
+3. Basically what you expect users to say
+
+
+######## data/stories.yml
+1. Give the path of conversation flow
+E.g Story: Happy Path
+intent_greet (This is from the user)       # This is in the nlu.yml file
+action utter_greet (This is from your bot) # This is in the domain.yml file
+
+
+######## data/rules.yml
+1. This is less of a story and more of what exactly to say when certain intent given
+2. Less of story flow, more rule based answer
+
+
+
+
+COMMANDS
+---------
+
+rasa init  (create a new assistant)
+rasa shell (Allows you to talk to yur assistant)
+rasa train (trains new model and stores in the model directory)
+rasa shell --debug
+rasa run actions

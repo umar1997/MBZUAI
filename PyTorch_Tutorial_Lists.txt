@@ -1,5 +1,5 @@
 MuBAF: Data Generator, Attention, Model
-MuBAF/BiDAF.ipynb
+MuBAF/BiDAF.ipynb - Created own Dataloader with yield
 MBZUAI/NLP 701/Assignment 3 - POS Tagging: Iterators, Torch.Text
 MBZUAI/NLP 702/Word2Vec
 MBZUAI/NLP 701/Named Entity Recognition

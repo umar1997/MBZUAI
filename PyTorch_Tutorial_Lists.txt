@@ -2,8 +2,8 @@ MuBAF: Data Generator, Attention, Model
 MuBAF/BiDAF.ipynb - Created own Dataloader with yield
 MBZUAI/NLP 701/Assignment 3 - POS Tagging: Iterators, Torch.Text
 MBZUAI/NLP 702/Word2Vec
-MBZUAI/NLP 701/Named Entity Recognition
-MBZUAI/NLP 701/Machine Translation
+MBZUAI/NLP 702/Named Entity Recognition
+MBZUAI/NLP 702/Machine Translation
 NL2SQL/Models/NER/Hugging Face Tutorial/Hugging Face.ipynb (Basic of Hugging Face)
 NL2SQL/Models/NER/Hugging Face Tutorial/PyTorch Tutorial (Very basics)
 NL2SQL/Models/NER/domainClassification

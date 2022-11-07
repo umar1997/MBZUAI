@@ -1,3 +1,5 @@
+QUESTION ANSWERING
+----------------------------------------------------------------
 Attentive Reader Code
 CNN/Daily Mail Reading Comprehension Task
 https://github.com/peterkim95/attentive-reader
@@ -5,13 +7,45 @@ https://github.com/peterkim95/attentive-reader
 PyTorch Question Answering for mutiple papers
 https://www.giters.com/kushalj001/pytorch-question-answering
 
+Applying BERT to Question Answering SQuAD 1.1
+https://www.youtube.com/watch?v=l8ZYCvgGu0o&ab_channel=ChrisMcCormickAI
 
+NLP: Contextualized word embeddings from BERT
+https://towardsdatascience.com/nlp-extract-contextualized-word-embeddings-from-bert-keras-tf-67ef29f60a7b
+
+Question Answering with a fine-tuned BERT using Hugging Face Transformers and PyTorch on CoQA dataset by Stanford
+https://towardsdatascience.com/question-answering-with-a-fine-tuned-bert-bc4dafd45626
+
+POS TAGGING
+----------------------------------------------------------------
+BiLSTM for PoS Tagging
+https://colab.research.google.com/github/bentrevett/pytorch-pos-tagging/blob/master/1_bilstm.ipynb
+
+Fine-tuning Pretrained Transformers for PoS Tagging
+https://colab.research.google.com/github/bentrevett/pytorch-pos-tagging/blob/master/2_transformer.ipynb
+
+SENTIMENT ANALYSIS
+----------------------------------------------------------------
+PyTorch sentiment classifier from scratch with Huggingface NLP Library
+https://www.youtube.com/watch?v=G3pOvrKkFuk&ab_channel=YannicKilcher
+
+
+NEXT WORD PREDICTION
+----------------------------------------------------------------
 Next Word Prediction using BERT GPT with PyTorch
 https://medium.com/mlearning-ai/an-illustration-of-next-word-prediction-with-state-of-the-art-network-architectures-like-bert-gpt-c0af02921f17
 
+
+
+
+
+
+
+
+
+
 Codes on Kaggle
 https://www.kaggle.com/shivan118/natural-language-processing-master
-
 
 20 Open Datasets for NLP
 https://odsc.medium.com/20-open-datasets-for-natural-language-processing-538fbfaf8e38
